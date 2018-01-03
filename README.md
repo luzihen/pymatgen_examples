@@ -1,13 +1,13 @@
 # Pymatgen_Examples
 Some examples of using pymatgen code
 
-# Explanation
+## Explanation
 All codes are self-explanatory.
 
-# NO Warrenty
+## NO Warrenty
 There is NO warrenty that these codes work properly or function in the way you want them to.
 
-# Refences
+## Refences
 Please cite my paper if you use these codes:
 
 - Lu, Ziheng, and Francesco Ciucci. "Metal Borohydrides as Electrolytes for Solid-State Li, Na, Mg, and Ca Batteries: A First-Principles Study." Chemistry of Materials 29.21 (2017): 9308-9319.
