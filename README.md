@@ -1,13 +1,21 @@
 # Pymatgen_Examples
-Some examples of using pymatgen code
+Some examples of using pymatgen code to
+1. construct phase diagrams
+2. generate MaterialProject-compatible VASP inputs
+3. read VASP outputs
+4. determine thermodynamic/electrochemical stability
+5. enumerate disordered structures
+
+
+![alt text](https://github.com/luzihen/pymatgen_examples/blob/master/pd.jpg)
 
 ## Explanation
 All codes are self-explanatory.
 
 ## NO Warrenty
-There is NO warrenty that these codes work properly or function in the way you want them to.
+There is NO guarantee that these codes work properly or function in the way you want them to.
 
-## Refences
+## References
 Please cite my paper if you use these codes:
 
 - Lu, Ziheng, and Francesco Ciucci. "Metal Borohydrides as Electrolytes for Solid-State Li, Na, Mg, and Ca Batteries: A First-Principles Study." Chemistry of Materials 29.21 (2017): 9308-9319.
