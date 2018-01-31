@@ -37,7 +37,7 @@ def find_entry_index(formula,all_entries):
 
 
 structure = Structure.from_file("LMO.cif")
-v = MPHSERelaxSet(structure)
+v = MPRelaxSet(structure)
 v.write_input("MyInputFiles")
 
 #or use the following to generate a list of input
