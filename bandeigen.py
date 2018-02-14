@@ -79,3 +79,4 @@ if ispin == 2: #spin
 
 
 print('access band info with the following syntex')
+print('bandata(_up/down)[kpoint][band]['energy'/'occupation'/'kposition']')
