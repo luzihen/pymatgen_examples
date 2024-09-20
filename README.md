@@ -1,3 +1,5 @@
+# HUGELY OUTDATED !!! LOOK AT THE UP-TO-DATE PYMATGEN MANUAL FOR EXAMPLES !!!
+
 # Pymatgen_Examples
 Some examples of using pymatgen code to
 1. construct phase diagrams
